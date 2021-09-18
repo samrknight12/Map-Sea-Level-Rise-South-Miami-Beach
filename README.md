@@ -12,7 +12,7 @@ In this small project I looked at the southern tip of Miami Beach Florida. Known
 
 All data was sourced from ArcGIS's Living Atlas Collection by ownership of ESRI.
 
-![MBeach}(MiamiBeach.PNG)
+![MBeach}(/MiamiBeach.PNG)
 
 
 ### References
